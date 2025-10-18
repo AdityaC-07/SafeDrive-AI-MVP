@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  Home, Activity, BarChart3, Settings, Play, Pause, Coffee, 
-  Navigation, Music, Phone, AlertTriangle, Eye, MapPin, Clock, 
-  TrendingUp, Battery, Wifi, Signal, Moon, Sun, CloudRain,
+  Home, Activity, BarChart3, Settings, Coffee, 
+  Music, AlertTriangle, MapPin, Battery, Wifi, Signal,
   User, Download, Share2, Heart
 } from 'lucide-react';
 
