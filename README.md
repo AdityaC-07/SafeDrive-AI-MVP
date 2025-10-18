@@ -1,2 +1,33 @@
-# SafeDrive-AI-MVP
-MVP for AI-Enhanced Driver Wellness Monitoring System
+# SafeDrive AI - Driver Wellness Monitoring System
+
+AI-Enhanced Driver Wellness Monitoring System built for i.Mobilothon 5.0
+
+##  Features
+
+- Real-time fatigue detection
+- Multi-level alert system
+- Trip analytics and reports
+- Nearby rest stop recommendations
+- Privacy-first on-device processing
+
+## Tech Stack
+
+- React 18
+- Tailwind CSS
+- Lucide React Icons
+
+##  Live Demo
+
+[View Demo](https://your-app-name.vercel.app)
+
+##  Hackathon
+
+Built for i.Mobilothon 5.0 - AI-Enhanced Driver Wellness Monitoring
+
+## Team
+
+Team Infinite Recursion
+
+## 📄 License
+
+MIT License
